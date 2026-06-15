@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Anjani**
 
-💻 **Senior AI-Focused Software Engineer | Cloud & Distributed Systems | LLM & Agentic AI Developer**  
+💻 **Software Development Engineer II | Cloud & Distributed Systems | LLM & Agentic AI Developer**  
 
 ---
 
@@ -46,7 +46,7 @@ I have hands-on experience taking AI systems from **prototype to production**, w
 ## 💼 Professional Experience
 
 ### 🧠 **Software Development Engineer II**
-**AVAN IT | Arlington, VA**  
+**AMAZON.COM | Arlington, VA**  
 **Oct 2022 – Present**
 - Designed ML-powered anomaly detection system using AWS SageMaker & Bedrock, reducing fraud exposure by 60%.
 - Built real-time LLM-based inference pipelines using Kafka streaming architecture.
@@ -57,7 +57,7 @@ I have hands-on experience taking AI systems from **prototype to production**, w
 - Developed AI-driven autonomous cloud operations agent for intelligent remediation workflows.
 
 ### ⚙️ **Software Development Engineer**
-**APEX | Chicago, IL**  
+**MULTIPLAN INC | Chicago, IL**  
 **Jun 2021 – Oct 2022**
 - Built Java Spring Boot microservices for enterprise claims processing systems.
 - Improved database performance by 25% through SQL and schema optimization.
@@ -67,7 +67,7 @@ I have hands-on experience taking AI systems from **prototype to production**, w
 - Increased system reliability through automated testing and CI/CD integration.
 
 ### 🧑‍💻 **Software Engineer**
-**TCS | Hyderabad, India**  
+**ACCENTURE | Hyderabad, India**  
 **May 2017 – May 2019**
 - Developed enterprise CRM features using JavaScript, HTML, CSS, and LWC.
 - Built REST APIs and backend services using Java and SQL.
